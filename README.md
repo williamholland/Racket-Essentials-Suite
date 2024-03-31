@@ -1,6 +1,10 @@
 # Racket-Essentials-Suite
 Racket Essentials Suite is a collection of software tools with GUIs I've written for fun
 
+# Design
+
+Let's use [frutiger aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero) for giggles.
+
 # TODO
 
 Here is the list of tools I'd like to make
